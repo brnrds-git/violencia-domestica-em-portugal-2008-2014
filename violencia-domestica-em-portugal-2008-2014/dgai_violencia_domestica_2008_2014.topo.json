@@ -1,0 +1,3481 @@
+{
+  "transform": {
+    "scale": [
+      0.0025081552497290688,
+      0.0012125352320998587
+    ],
+    "translate": [
+      -31.26818656921381,
+      30.03017616271984
+    ]
+  },
+  "objects": {"PRT_adm1": {
+    "geometries": [
+      {
+        "type": "Polygon",
+        "arcs": [[
+          0,
+          1,
+          2,
+          3,
+          4
+        ]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.EV",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 1,
+          "NAME_1": "Évora",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "216"},
+                  {"PSP": "171"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "247"},
+                  {"PSP": "162"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "248"},
+                  {"PSP": "181"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "277"},
+                  {"PSP": "150"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "207"},
+                  {"PSP": "169"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "226"},
+                  {"PSP": "137"}
+                ]
+              }
+            ],
+            "Distrito": "Évora",
+            "Factor_amostra": 0.020521270111203194,
+            "Somatorio_amostra": 2391
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [[[
+          5,
+          6,
+          7,
+          8
+        ]]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.AV",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 2,
+          "NAME_1": "Aveiro",
+          "CCN_1": 0,
+          "CCA_1": "01",
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "1204"},
+                  {"PSP": "725"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "1378"},
+                  {"PSP": "707"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "1192"},
+                  {"PSP": "603"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "1176"},
+                  {"PSP": "403"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "1245"},
+                  {"PSP": "423"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "1390"},
+                  {"PSP": "470"}
+                ]
+              }
+            ],
+            "Distrito": "Aveiro",
+            "Factor_amostra": 0.07040143758058548,
+            "Somatorio_amostra": 10916
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [
+          [[9]],
+          [[
+            10,
+            11,
+            12,
+            13
+          ]],
+          [[14]],
+          [[15]],
+          [[16]],
+          [[17]],
+          [[18]],
+          [[19]]
+        ],
+        "properties": {
+          "ENGTYPE_1": "'Autonomous Region'",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.AC",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Regiões autônoma",
+          "ID_1": 3,
+          "NAME_1": "Açores",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "ND"},
+                  {"PSP": "1302"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "0"},
+                  {"PSP": "1259"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "ND"},
+                  {"PSP": "1238"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "2"},
+                  {"PSP": "1154"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "1"},
+                  {"PSP": "1111"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "0"},
+                  {"PSP": "1079"}
+                ]
+              }
+            ],
+            "Distrito": "Região Autónoma Açores",
+            "Factor_amostra": 0.1616237312555313,
+            "Somatorio_amostra": 7146
+          },
+          "VARNAME_1": "Açores"
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [[[
+          20,
+          21,
+          22,
+          23,
+          -2
+        ]]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.BE",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 4,
+          "NAME_1": "Beja",
+          "CCN_1": 0,
+          "CCA_1": "02",
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "166"},
+                  {"PSP": "109"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "195"},
+                  {"PSP": "87"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "196"},
+                  {"PSP": "54"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "244"},
+                  {"PSP": "73"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "242"},
+                  {"PSP": "74"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "207"},
+                  {"PSP": "65"}
+                ]
+              }
+            ],
+            "Distrito": "Beja",
+            "Factor_amostra": 0.009736369363963604,
+            "Somatorio_amostra": 1712
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "Polygon",
+        "arcs": [[
+          24,
+          25,
+          26,
+          27,
+          28
+        ]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.BR",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 5,
+          "NAME_1": "Braga",
+          "CCN_1": 0,
+          "CCA_1": "03",
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "1051"},
+                  {"PSP": "584"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "1155"},
+                  {"PSP": "683"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "1080"},
+                  {"PSP": "618"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "1161"},
+                  {"PSP": "553"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "1218"},
+                  {"PSP": "659"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "1084"},
+                  {"PSP": "625"}
+                ]
+              }
+            ],
+            "Distrito": "Braga",
+            "Factor_amostra": 0.09361893683671951,
+            "Somatorio_amostra": 10471
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "Polygon",
+        "arcs": [[
+          29,
+          30,
+          31,
+          32
+        ]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.BA",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 6,
+          "NAME_1": "Bragança",
+          "CCN_1": 0,
+          "CCA_1": "04",
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "162"},
+                  {"PSP": "121"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "253"},
+                  {"PSP": "106"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "252"},
+                  {"PSP": "101"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "240"},
+                  {"PSP": "108"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "244"},
+                  {"PSP": "114"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "246"},
+                  {"PSP": "119"}
+                ]
+              }
+            ],
+            "Distrito": "Bragança",
+            "Factor_amostra": 0.017825044691562653,
+            "Somatorio_amostra": 2066
+          },
+          "VARNAME_1": "Braganza"
+        }
+      },
+      {
+        "type": "Polygon",
+        "arcs": [[
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.CB",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 7,
+          "NAME_1": "Castelo Branco",
+          "CCN_1": 0,
+          "CCA_1": "05",
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "327"},
+                  {"PSP": "106"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "360"},
+                  {"PSP": "138"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "305"},
+                  {"PSP": "157"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "301"},
+                  {"PSP": "122"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "284"},
+                  {"PSP": "153"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "309"},
+                  {"PSP": "165"}
+                ]
+              }
+            ],
+            "Distrito": "Castelo Branco",
+            "Factor_amostra": 0.024715399369597435,
+            "Somatorio_amostra": 2727
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "Polygon",
+        "arcs": [[
+          39,
+          40,
+          -38,
+          41,
+          42,
+          -7
+        ]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.CO",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 8,
+          "NAME_1": "Coimbra",
+          "CCN_1": 0,
+          "CCA_1": "06",
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "673"},
+                  {"PSP": "418"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "636"},
+                  {"PSP": "425"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "553"},
+                  {"PSP": "444"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "552"},
+                  {"PSP": "452"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "625"},
+                  {"PSP": "505"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "618"},
+                  {"PSP": "512"}
+                ]
+              }
+            ],
+            "Distrito": "Coimbra",
+            "Factor_amostra": 0.07669263333082199,
+            "Somatorio_amostra": 6413
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [[[
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          -22,
+          49
+        ]]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.FA",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 9,
+          "NAME_1": "Faro",
+          "CCN_1": 0,
+          "CCA_1": "08",
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "702"},
+                  {"PSP": "667"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "789"},
+                  {"PSP": "672"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "714"},
+                  {"PSP": "636"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "793"},
+                  {"PSP": "539"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "732"},
+                  {"PSP": "539"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "742"},
+                  {"PSP": "571"}
+                ]
+              }
+            ],
+            "Distrito": "Faro",
+            "Factor_amostra": 0.08553025871515274,
+            "Somatorio_amostra": 8096
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [
+          [[50]],
+          [[
+            51,
+            -39,
+            -41,
+            52,
+            -30
+          ]]
+        ],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.GU",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 10,
+          "NAME_1": "Guarda",
+          "CCN_1": 0,
+          "CCA_1": "09",
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "201"},
+                  {"PSP": "59"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "227"},
+                  {"PSP": "65"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "242"},
+                  {"PSP": "64"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "203"},
+                  {"PSP": "78"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "254"},
+                  {"PSP": "59"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "282"},
+                  {"PSP": "75"}
+                ]
+              }
+            ],
+            "Distrito": "Guarda",
+            "Factor_amostra": 0.01123427227139473,
+            "Somatorio_amostra": 1809
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [[[
+          53,
+          54,
+          55,
+          56,
+          -42,
+          -37,
+          57
+        ]]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.LE",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 11,
+          "NAME_1": "Leiria",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "661"},
+                  {"PSP": "504"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "746"},
+                  {"PSP": "475"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "695"},
+                  {"PSP": "353"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "673"},
+                  {"PSP": "306"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "559"},
+                  {"PSP": "339"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "584"},
+                  {"PSP": "359"}
+                ]
+              }
+            ],
+            "Distrito": "Leiria",
+            "Factor_amostra": 0.05377471446990967,
+            "Somatorio_amostra": 6254
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [[[
+          58,
+          59,
+          60,
+          -56,
+          61,
+          62
+        ]]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.LI",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 12,
+          "NAME_1": "Lisboa",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "846"},
+                  {"PSP": "6676"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "1042"},
+                  {"PSP": "6272"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "972"},
+                  {"PSP": "5742"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "744"},
+                  {"PSP": "4952"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "748"},
+                  {"PSP": "5137"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "804"},
+                  {"PSP": "5047"}
+                ]
+              }
+            ],
+            "Distrito": "Lisboa",
+            "Factor_amostra": 0.7559916377067566,
+            "Somatorio_amostra": 38982
+          },
+          "VARNAME_1": "Lisbon|Lisbona|Lisbonne|Lissabon"
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [[[
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79
+        ]]],
+        "properties": {
+          "ENGTYPE_1": "'Autonomous Region'",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": null,
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Regiões autônoma",
+          "ID_1": 13,
+          "NAME_1": "Madeira",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "ND"},
+                  {"PSP": "1020"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "0"},
+                  {"PSP": "1017"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "ND"},
+                  {"PSP": "951"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "1"},
+                  {"PSP": "975"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "0"},
+                  {"PSP": "1018"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "1"},
+                  {"PSP": "1010"}
+                ]
+              }
+            ],
+            "Distrito": "Região Autónoma Madeira",
+            "Factor_amostra": 0.1512881964445114,
+            "Somatorio_amostra": 5993
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "Polygon",
+        "arcs": [[
+          -5,
+          80,
+          -35,
+          81
+        ]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.PA",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 14,
+          "NAME_1": "Portalegre",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "177"},
+                  {"PSP": "109"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "182"},
+                  {"PSP": "115"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "162"},
+                  {"PSP": "99"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "155"},
+                  {"PSP": "85"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "187"},
+                  {"PSP": "98"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "151"},
+                  {"PSP": "99"}
+                ]
+              }
+            ],
+            "Distrito": "Portalegre",
+            "Factor_amostra": 0.014829238876700401,
+            "Somatorio_amostra": 1619
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [[[
+          82,
+          -25,
+          83,
+          84,
+          -9,
+          85
+        ]]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.PO",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 15,
+          "NAME_1": "Porto",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "2209"},
+                  {"PSP": "4353"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "2395"},
+                  {"PSP": "3960"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "2037"},
+                  {"PSP": "4002"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "1869"},
+                  {"PSP": "3300"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "1951"},
+                  {"PSP": "3191"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "2046"},
+                  {"PSP": "3105"}
+                ]
+              }
+            ],
+            "Distrito": "Porto",
+            "Factor_amostra": 0.46509885787963867,
+            "Somatorio_amostra": 34418
+          },
+          "VARNAME_1": "Oporto"
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [
+          [[-54]],
+          [[
+            -58,
+            -36,
+            -81,
+            -4,
+            86,
+            87,
+            -62,
+            -55
+          ]]
+        ],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.SA",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 16,
+          "NAME_1": "Santarém",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "634"},
+                  {"PSP": "254"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "746"},
+                  {"PSP": "341"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "647"},
+                  {"PSP": "321"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "637"},
+                  {"PSP": "346"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "660"},
+                  {"PSP": "338"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "582"},
+                  {"PSP": "339"}
+                ]
+              }
+            ],
+            "Distrito": "Santarém",
+            "Factor_amostra": 0.050778910517692566,
+            "Somatorio_amostra": 5845
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "MultiPolygon",
+        "arcs": [[[
+          88,
+          89,
+          -87,
+          -3,
+          -24,
+          90
+        ]]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.SE",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 17,
+          "NAME_1": "Setúbal",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "975"},
+                  {"PSP": "1425"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "950"},
+                  {"PSP": "1556"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "851"},
+                  {"PSP": "1431"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "951"},
+                  {"PSP": "1311"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "1030"},
+                  {"PSP": "1350"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "1008"},
+                  {"PSP": "1302"}
+                ]
+              }
+            ],
+            "Distrito": "Setúbal",
+            "Factor_amostra": 0.1950269639492035,
+            "Somatorio_amostra": 14140
+          },
+          "VARNAME_1": null
+        }
+      },
+      {
+        "type": "Polygon",
+        "arcs": [[
+          -27,
+          91
+        ]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.VC",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 18,
+          "NAME_1": "Viana do Castelo",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "482"},
+                  {"PSP": "102"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "465"},
+                  {"PSP": "123"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "408"},
+                  {"PSP": "112"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "379"},
+                  {"PSP": "106"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "359"},
+                  {"PSP": "149"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "334"},
+                  {"PSP": "177"}
+                ]
+              }
+            ],
+            "Distrito": "Viana do Castelo",
+            "Factor_amostra": 0.026512881740927696,
+            "Somatorio_amostra": 3196
+          },
+          "VARNAME_1": "Vianna do Castello"
+        }
+      },
+      {
+        "type": "Polygon",
+        "arcs": [[
+          -32,
+          92,
+          -84,
+          -29,
+          93
+        ]],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.VR",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 19,
+          "NAME_1": "Vila Real",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "316"},
+                  {"PSP": "99"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "409"},
+                  {"PSP": "134"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "397"},
+                  {"PSP": "145"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "405"},
+                  {"PSP": "111"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "443"},
+                  {"PSP": "144"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "468"},
+                  {"PSP": "117"}
+                ]
+              }
+            ],
+            "Distrito": "Vila Real",
+            "Factor_amostra": 0.017525464296340942,
+            "Somatorio_amostra": 3188
+          },
+          "VARNAME_1": "Villa Real"
+        }
+      },
+      {
+        "type": "Polygon",
+        "arcs": [
+          [
+            -53,
+            -40,
+            -6,
+            -85,
+            -93,
+            -31
+          ],
+          [-51]
+        ],
+        "properties": {
+          "ENGTYPE_1": "District",
+          "ISO": "PRT",
+          "NL_NAME_1": null,
+          "HASC_1": "PT.VI",
+          "ID_0": 182,
+          "NAME_0": "Portugal",
+          "TYPE_1": "Distrito",
+          "ID_1": 20,
+          "NAME_1": "Viseu",
+          "CCN_1": 0,
+          "CCA_1": null,
+          "dgai_violencia_domestica_2008_2014": {
+            "Valores": [
+              {
+                "Ano": "2009",
+                "Entidade": [
+                  {"GNR": "543"},
+                  {"PSP": "194"}
+                ]
+              },
+              {
+                "Ano": "2010",
+                "Entidade": [
+                  {"GNR": "567"},
+                  {"PSP": "196"}
+                ]
+              },
+              {
+                "Ano": "2011",
+                "Entidade": [
+                  {"GNR": "534"},
+                  {"PSP": "243"}
+                ]
+              },
+              {
+                "Ano": "2012",
+                "Entidade": [
+                  {"GNR": "583"},
+                  {"PSP": "208"}
+                ]
+              },
+              {
+                "Ano": "2013",
+                "Entidade": [
+                  {"GNR": "539"},
+                  {"PSP": "220"}
+                ]
+              },
+              {
+                "Ano": "2014",
+                "Entidade": [
+                  {"GNR": "644"},
+                  {"PSP": "218"}
+                ]
+              }
+            ],
+            "Distrito": "Viseu",
+            "Factor_amostra": 0.0326542854309082,
+            "Somatorio_amostra": 4689
+          },
+          "VARNAME_1": "Vizeu"
+        }
+      }
+    ],
+    "type": "GeometryCollection"
+  }},
+  "type": "Topology",
+  "arcs": [
+    [
+      [
+        9594,
+        7193
+      ],
+      [
+        -22,
+        -23
+      ],
+      [
+        -1,
+        -111
+      ],
+      [
+        -27,
+        -119
+      ],
+      [
+        74,
+        -150
+      ],
+      [
+        15,
+        -63
+      ]
+    ],
+    [
+      [
+        9633,
+        6727
+      ],
+      [
+        -22,
+        -21
+      ],
+      [
+        -46,
+        137
+      ],
+      [
+        -48,
+        -28
+      ],
+      [
+        -39,
+        -88
+      ],
+      [
+        -69,
+        11
+      ],
+      [
+        -124,
+        95
+      ],
+      [
+        -74,
+        4
+      ]
+    ],
+    [
+      [
+        9211,
+        6837
+      ],
+      [
+        -62,
+        42
+      ],
+      [
+        13,
+        54
+      ],
+      [
+        -32,
+        90
+      ],
+      [
+        -55,
+        -23
+      ],
+      [
+        -53,
+        26
+      ],
+      [
+        -7,
+        48
+      ],
+      [
+        62,
+        88
+      ],
+      [
+        -18,
+        40
+      ]
+    ],
+    [
+      [
+        9059,
+        7202
+      ],
+      [
+        68,
+        75
+      ],
+      [
+        30,
+        6
+      ],
+      [
+        64,
+        -74
+      ],
+      [
+        -52,
+        112
+      ],
+      [
+        17,
+        66
+      ]
+    ],
+    [
+      [
+        9186,
+        7387
+      ],
+      [
+        30,
+        30
+      ],
+      [
+        92,
+        -42
+      ],
+      [
+        18,
+        -53
+      ],
+      [
+        59,
+        23
+      ],
+      [
+        37,
+        -21
+      ],
+      [
+        73,
+        45
+      ],
+      [
+        24,
+        -135
+      ],
+      [
+        59,
+        38
+      ],
+      [
+        16,
+        -79
+      ]
+    ],
+    [
+      [
+        9172,
+        9101
+      ],
+      [
+        47,
+        -71
+      ],
+      [
+        16,
+        -102
+      ],
+      [
+        -51,
+        7
+      ],
+      [
+        -40,
+        -103
+      ],
+      [
+        10,
+        -117
+      ],
+      [
+        23,
+        -69
+      ],
+      [
+        -32,
+        -17
+      ],
+      [
+        -10,
+        -104
+      ]
+    ],
+    [
+      [
+        9135,
+        8525
+      ],
+      [
+        -51,
+        -44
+      ],
+      [
+        -9,
+        87
+      ],
+      [
+        -30,
+        49
+      ],
+      [
+        -27,
+        -45
+      ],
+      [
+        -54,
+        79
+      ]
+    ],
+    [
+      [
+        8964,
+        8651
+      ],
+      [
+        14,
+        100
+      ],
+      [
+        32,
+        30
+      ],
+      [
+        -5,
+        86
+      ],
+      [
+        -28,
+        -111
+      ],
+      [
+        43,
+        304
+      ]
+    ],
+    [
+      [
+        9020,
+        9060
+      ],
+      [
+        55,
+        -5
+      ],
+      [
+        23,
+        35
+      ],
+      [
+        74,
+        11
+      ]
+    ],
+    [
+      [
+        2464,
+        5761
+      ],
+      [
+        29,
+        -65
+      ],
+      [
+        -62,
+        5
+      ],
+      [
+        33,
+        60
+      ]
+    ],
+    [
+      [
+        2324,
+        6429
+      ],
+      [
+        116,
+        19
+      ],
+      [
+        -10,
+        -89
+      ],
+      [
+        -101,
+        -22
+      ]
+    ],
+    [
+      [
+        2329,
+        6337
+      ],
+      [
+        -82,
+        27
+      ]
+    ],
+    [
+      [
+        2247,
+        6364
+      ],
+      [
+        -23,
+        -13
+      ],
+      [
+        -45,
+        58
+      ]
+    ],
+    [
+      [
+        2179,
+        6409
+      ],
+      [
+        -20,
+        38
+      ],
+      [
+        30,
+        51
+      ],
+      [
+        75,
+        -79
+      ],
+      [
+        60,
+        10
+      ]
+    ],
+    [
+      [
+        1136,
+        7035
+      ],
+      [
+        154,
+        -123
+      ],
+      [
+        -166,
+        7
+      ],
+      [
+        -38,
+        83
+      ],
+      [
+        50,
+        33
+      ]
+    ],
+    [
+      [
+        1018,
+        7104
+      ],
+      [
+        42,
+        -36
+      ],
+      [
+        -7,
+        -64
+      ],
+      [
+        -49,
+        1
+      ],
+      [
+        -35,
+        65
+      ],
+      [
+        49,
+        34
+      ]
+    ],
+    [
+      [
+        1175,
+        7196
+      ],
+      [
+        116,
+        -68
+      ],
+      [
+        109,
+        -104
+      ],
+      [
+        -30,
+        -12
+      ],
+      [
+        -156,
+        121
+      ],
+      [
+        -39,
+        63
+      ]
+    ],
+    [
+      [
+        1597,
+        7234
+      ],
+      [
+        64,
+        -13
+      ],
+      [
+        23,
+        -67
+      ],
+      [
+        -14,
+        -50
+      ],
+      [
+        -84,
+        8
+      ],
+      [
+        -32,
+        43
+      ],
+      [
+        1,
+        57
+      ],
+      [
+        42,
+        22
+      ]
+    ],
+    [
+      [
+        1290,
+        7476
+      ],
+      [
+        33,
+        -68
+      ],
+      [
+        -37,
+        10
+      ],
+      [
+        4,
+        58
+      ]
+    ],
+    [
+      [
+        44,
+        7812
+      ],
+      [
+        -8,
+        -107
+      ],
+      [
+        -28,
+        1
+      ],
+      [
+        -4,
+        93
+      ],
+      [
+        40,
+        13
+      ]
+    ],
+    [
+      [
+        9633,
+        6727
+      ],
+      [
+        68,
+        26
+      ],
+      [
+        -26,
+        -163
+      ],
+      [
+        -37,
+        18
+      ],
+      [
+        -62,
+        -79
+      ],
+      [
+        -28,
+        -107
+      ],
+      [
+        -41,
+        -52
+      ],
+      [
+        -36,
+        -189
+      ]
+    ],
+    [
+      [
+        9471,
+        6181
+      ],
+      [
+        -92,
+        -27
+      ],
+      [
+        -101,
+        -79
+      ],
+      [
+        -29,
+        -63
+      ],
+      [
+        -47,
+        17
+      ],
+      [
+        -36,
+        71
+      ],
+      [
+        -60,
+        -35
+      ],
+      [
+        -58,
+        23
+      ],
+      [
+        -25,
+        -30
+      ],
+      [
+        -63,
+        55
+      ]
+    ],
+    [
+      [
+        8960,
+        6113
+      ],
+      [
+        -9,
+        122
+      ],
+      [
+        10,
+        188
+      ]
+    ],
+    [
+      [
+        8961,
+        6423
+      ],
+      [
+        42,
+        -53
+      ],
+      [
+        40,
+        1
+      ],
+      [
+        14,
+        76
+      ],
+      [
+        88,
+        0
+      ],
+      [
+        15,
+        120
+      ],
+      [
+        -46,
+        60
+      ],
+      [
+        50,
+        100
+      ],
+      [
+        61,
+        29
+      ],
+      [
+        -14,
+        81
+      ]
+    ],
+    [
+      [
+        9287,
+        9355
+      ],
+      [
+        -24,
+        -45
+      ],
+      [
+        -60,
+        75
+      ],
+      [
+        -40,
+        -57
+      ],
+      [
+        -86,
+        23
+      ],
+      [
+        -109,
+        85
+      ]
+    ],
+    [
+      [
+        8968,
+        9436
+      ],
+      [
+        -14,
+        116
+      ]
+    ],
+    [
+      [
+        8954,
+        9552
+      ],
+      [
+        65,
+        30
+      ],
+      [
+        42,
+        -14
+      ],
+      [
+        11,
+        75
+      ],
+      [
+        83,
+        31
+      ],
+      [
+        56,
+        48
+      ]
+    ],
+    [
+      [
+        9211,
+        9722
+      ],
+      [
+        46,
+        1
+      ]
+    ],
+    [
+      [
+        9257,
+        9723
+      ],
+      [
+        -27,
+        -108
+      ],
+      [
+        54,
+        -7
+      ],
+      [
+        -6,
+        -64
+      ],
+      [
+        74,
+        -20
+      ],
+      [
+        -50,
+        -82
+      ],
+      [
+        -15,
+        -87
+      ]
+    ],
+    [
+      [
+        9703,
+        9071
+      ],
+      [
+        -69,
+        43
+      ],
+      [
+        8,
+        32
+      ],
+      [
+        -88,
+        16
+      ]
+    ],
+    [
+      [
+        9554,
+        9162
+      ],
+      [
+        -50,
+        58
+      ]
+    ],
+    [
+      [
+        9504,
+        9220
+      ],
+      [
+        29,
+        99
+      ],
+      [
+        -3,
+        91
+      ],
+      [
+        52,
+        64
+      ],
+      [
+        -5,
+        95
+      ],
+      [
+        27,
+        83
+      ],
+      [
+        -8,
+        120
+      ]
+    ],
+    [
+      [
+        9596,
+        9772
+      ],
+      [
+        5,
+        75
+      ],
+      [
+        98,
+        -23
+      ],
+      [
+        156,
+        2
+      ],
+      [
+        13,
+        -57
+      ],
+      [
+        -19,
+        -102
+      ],
+      [
+        21,
+        -75
+      ],
+      [
+        63,
+        13
+      ],
+      [
+        66,
+        -85
+      ],
+      [
+        -51,
+        -155
+      ],
+      [
+        -30,
+        -2
+      ],
+      [
+        -23,
+        -71
+      ],
+      [
+        -96,
+        -72
+      ],
+      [
+        -47,
+        -144
+      ],
+      [
+        -49,
+        -5
+      ]
+    ],
+    [
+      [
+        9695,
+        8435
+      ],
+      [
+        -24,
+        -27
+      ],
+      [
+        0,
+        -82
+      ],
+      [
+        28,
+        -12
+      ],
+      [
+        27,
+        -97
+      ],
+      [
+        -12,
+        -102
+      ],
+      [
+        -31,
+        -42
+      ],
+      [
+        -13,
+        -124
+      ],
+      [
+        -126,
+        -24
+      ],
+      [
+        -84,
+        20
+      ]
+    ],
+    [
+      [
+        9460,
+        7945
+      ],
+      [
+        -113,
+        -104
+      ]
+    ],
+    [
+      [
+        9347,
+        7841
+      ],
+      [
+        -9,
+        71
+      ],
+      [
+        -44,
+        31
+      ],
+      [
+        0,
+        65
+      ],
+      [
+        -39,
+        -3
+      ],
+      [
+        0,
+        -98
+      ],
+      [
+        -70,
+        24
+      ],
+      [
+        -4,
+        108
+      ],
+      [
+        -18,
+        15
+      ]
+    ],
+    [
+      [
+        9163,
+        8054
+      ],
+      [
+        67,
+        114
+      ]
+    ],
+    [
+      [
+        9230,
+        8168
+      ],
+      [
+        120,
+        87
+      ],
+      [
+        33,
+        68
+      ],
+      [
+        -19,
+        89
+      ]
+    ],
+    [
+      [
+        9364,
+        8412
+      ],
+      [
+        67,
+        76
+      ],
+      [
+        31,
+        -5
+      ],
+      [
+        17,
+        61
+      ],
+      [
+        89,
+        14
+      ],
+      [
+        -24,
+        -92
+      ],
+      [
+        151,
+        -31
+      ]
+    ],
+    [
+      [
+        9135,
+        8525
+      ],
+      [
+        48,
+        -37
+      ],
+      [
+        49,
+        15
+      ],
+      [
+        113,
+        129
+      ]
+    ],
+    [
+      [
+        9345,
+        8632
+      ],
+      [
+        27,
+        -132
+      ],
+      [
+        -8,
+        -88
+      ]
+    ],
+    [
+      [
+        9230,
+        8168
+      ],
+      [
+        -24,
+        128
+      ],
+      [
+        -26,
+        -19
+      ],
+      [
+        -52,
+        -117
+      ],
+      [
+        -13,
+        69
+      ],
+      [
+        -84,
+        -15
+      ],
+      [
+        -22,
+        32
+      ],
+      [
+        -88,
+        13
+      ]
+    ],
+    [
+      [
+        8921,
+        8259
+      ],
+      [
+        -6,
+        111
+      ],
+      [
+        49,
+        281
+      ]
+    ],
+    [
+      [
+        9185,
+        5816
+      ],
+      [
+        -85,
+        2
+      ],
+      [
+        -71,
+        39
+      ],
+      [
+        -20,
+        -42
+      ],
+      [
+        -93,
+        -48
+      ]
+    ],
+    [
+      [
+        8916,
+        5767
+      ],
+      [
+        -34,
+        8
+      ],
+      [
+        34,
+        114
+      ]
+    ],
+    [
+      [
+        8916,
+        5889
+      ],
+      [
+        12,
+        107
+      ]
+    ],
+    [
+      [
+        8928,
+        5996
+      ],
+      [
+        21,
+        71
+      ]
+    ],
+    [
+      [
+        8949,
+        6067
+      ],
+      [
+        6,
+        37
+      ]
+    ],
+    [
+      [
+        8955,
+        6104
+      ],
+      [
+        5,
+        9
+      ]
+    ],
+    [
+      [
+        9471,
+        6181
+      ],
+      [
+        20,
+        -30
+      ],
+      [
+        23,
+        -262
+      ],
+      [
+        -58,
+        -13
+      ],
+      [
+        -134,
+        -143
+      ],
+      [
+        -88,
+        71
+      ],
+      [
+        -49,
+        12
+      ]
+    ],
+    [
+      [
+        9512,
+        8983
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    [
+      [
+        9703,
+        9071
+      ],
+      [
+        49,
+        -122
+      ],
+      [
+        5,
+        -306
+      ],
+      [
+        -21,
+        -44
+      ],
+      [
+        23,
+        -103
+      ],
+      [
+        -64,
+        -61
+      ]
+    ],
+    [
+      [
+        9345,
+        8632
+      ],
+      [
+        96,
+        67
+      ],
+      [
+        18,
+        97
+      ],
+      [
+        -33,
+        69
+      ],
+      [
+        28,
+        76
+      ],
+      [
+        48,
+        -41
+      ],
+      [
+        44,
+        124
+      ],
+      [
+        -21,
+        15
+      ],
+      [
+        29,
+        123
+      ]
+    ],
+    [
+      [
+        9003,
+        7874
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    [
+      [
+        9003,
+        7874
+      ],
+      [
+        -18,
+        -80
+      ],
+      [
+        -68,
+        -13
+      ],
+      [
+        -38,
+        -90
+      ],
+      [
+        2,
+        -50
+      ]
+    ],
+    [
+      [
+        8881,
+        7641
+      ],
+      [
+        -44,
+        -5
+      ],
+      [
+        -30,
+        -64
+      ],
+      [
+        -10,
+        76
+      ],
+      [
+        -55,
+        -10
+      ]
+    ],
+    [
+      [
+        8742,
+        7638
+      ],
+      [
+        -11,
+        51
+      ],
+      [
+        37,
+        37
+      ],
+      [
+        80,
+        155
+      ],
+      [
+        11,
+        115
+      ],
+      [
+        62,
+        263
+      ]
+    ],
+    [
+      [
+        9163,
+        8054
+      ],
+      [
+        -66,
+        -52
+      ],
+      [
+        -9,
+        84
+      ],
+      [
+        -82,
+        -53
+      ],
+      [
+        16,
+        -58
+      ],
+      [
+        -19,
+        -101
+      ]
+    ],
+    [
+      [
+        8821,
+        7154
+      ],
+      [
+        -110,
+        -12
+      ]
+    ],
+    [
+      [
+        8711,
+        7142
+      ],
+      [
+        -16,
+        3
+      ]
+    ],
+    [
+      [
+        8695,
+        7145
+      ],
+      [
+        -16,
+        68
+      ],
+      [
+        34,
+        136
+      ],
+      [
+        -3,
+        107
+      ],
+      [
+        26,
+        84
+      ],
+      [
+        6,
+        98
+      ]
+    ],
+    [
+      [
+        8881,
+        7641
+      ],
+      [
+        47,
+        -37
+      ],
+      [
+        -7,
+        -55
+      ],
+      [
+        44,
+        -103
+      ],
+      [
+        -24,
+        -34
+      ],
+      [
+        -50,
+        -157
+      ]
+    ],
+    [
+      [
+        8891,
+        7255
+      ],
+      [
+        -10,
+        94
+      ],
+      [
+        -60,
+        -195
+      ]
+    ],
+    [
+      [
+        5623,
+        2340
+      ],
+      [
+        20,
+        -33
+      ]
+    ],
+    [
+      [
+        5643,
+        2307
+      ],
+      [
+        85,
+        5
+      ]
+    ],
+    [
+      [
+        5728,
+        2312
+      ],
+      [
+        16,
+        -23
+      ]
+    ],
+    [
+      [
+        5744,
+        2289
+      ],
+      [
+        0,
+        -7
+      ]
+    ],
+    [
+      [
+        5744,
+        2282
+      ],
+      [
+        19,
+        -24
+      ]
+    ],
+    [
+      [
+        5763,
+        2258
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    [
+      [
+        5763,
+        2258
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    [
+      [
+        5764,
+        2257
+      ],
+      [
+        49,
+        -12
+      ]
+    ],
+    [
+      [
+        5813,
+        2245
+      ],
+      [
+        1,
+        -9
+      ]
+    ],
+    [
+      [
+        5814,
+        2236
+      ],
+      [
+        -55,
+        -78
+      ]
+    ],
+    [
+      [
+        5759,
+        2158
+      ],
+      [
+        -17,
+        -4
+      ]
+    ],
+    [
+      [
+        5742,
+        2154
+      ],
+      [
+        -11,
+        3
+      ]
+    ],
+    [
+      [
+        5731,
+        2157
+      ],
+      [
+        -10,
+        -4
+      ]
+    ],
+    [
+      [
+        5721,
+        2153
+      ],
+      [
+        -77,
+        32
+      ],
+      [
+        -53,
+        86
+      ]
+    ],
+    [
+      [
+        5591,
+        2271
+      ],
+      [
+        0,
+        1
+      ]
+    ],
+    [
+      [
+        5591,
+        2272
+      ],
+      [
+        -1,
+        2
+      ]
+    ],
+    [
+      [
+        5590,
+        2274
+      ],
+      [
+        33,
+        66
+      ]
+    ],
+    [
+      [
+        9186,
+        7387
+      ],
+      [
+        -46,
+        93
+      ],
+      [
+        83,
+        155
+      ],
+      [
+        23,
+        -8
+      ],
+      [
+        53,
+        119
+      ],
+      [
+        -25,
+        33
+      ],
+      [
+        19,
+        82
+      ],
+      [
+        54,
+        -20
+      ]
+    ],
+    [
+      [
+        9460,
+        7945
+      ],
+      [
+        16,
+        -61
+      ],
+      [
+        82,
+        -108
+      ],
+      [
+        -6,
+        -99
+      ],
+      [
+        31,
+        -52
+      ],
+      [
+        -4,
+        -57
+      ],
+      [
+        42,
+        -29
+      ],
+      [
+        -3,
+        -52
+      ],
+      [
+        44,
+        7
+      ],
+      [
+        31,
+        -81
+      ],
+      [
+        -30,
+        -117
+      ],
+      [
+        -69,
+        -103
+      ]
+    ],
+    [
+      [
+        9002,
+        9186
+      ],
+      [
+        -38,
+        199
+      ],
+      [
+        4,
+        51
+      ]
+    ],
+    [
+      [
+        9287,
+        9355
+      ],
+      [
+        40,
+        -108
+      ],
+      [
+        -15,
+        -101
+      ]
+    ],
+    [
+      [
+        9312,
+        9146
+      ],
+      [
+        -140,
+        -45
+      ]
+    ],
+    [
+      [
+        9020,
+        9060
+      ],
+      [
+        -18,
+        126
+      ]
+    ],
+    [
+      [
+        9059,
+        7202
+      ],
+      [
+        -63,
+        66
+      ],
+      [
+        -18,
+        -81
+      ],
+      [
+        -70,
+        12
+      ]
+    ],
+    [
+      [
+        8908,
+        7199
+      ],
+      [
+        -17,
+        56
+      ]
+    ],
+    [
+      [
+        8965,
+        6925
+      ],
+      [
+        25,
+        9
+      ],
+      [
+        -7,
+        110
+      ],
+      [
+        -17,
+        -83
+      ],
+      [
+        -34,
+        37
+      ],
+      [
+        -107,
+        -71
+      ]
+    ],
+    [
+      [
+        8825,
+        6927
+      ],
+      [
+        -35,
+        -14
+      ],
+      [
+        16,
+        85
+      ],
+      [
+        -32,
+        121
+      ],
+      [
+        47,
+        18
+      ],
+      [
+        15,
+        -33
+      ],
+      [
+        72,
+        95
+      ]
+    ],
+    [
+      [
+        8961,
+        6423
+      ],
+      [
+        -7,
+        91
+      ],
+      [
+        -31,
+        19
+      ],
+      [
+        31,
+        105
+      ],
+      [
+        14,
+        107
+      ],
+      [
+        -3,
+        180
+      ]
+    ],
+    [
+      [
+        8954,
+        9552
+      ],
+      [
+        -21,
+        78
+      ],
+      [
+        -4,
+        135
+      ],
+      [
+        140,
+        172
+      ],
+      [
+        76,
+        3
+      ],
+      [
+        57,
+        49
+      ],
+      [
+        1,
+        -61
+      ],
+      [
+        40,
+        -43
+      ],
+      [
+        -52,
+        -84
+      ],
+      [
+        20,
+        -79
+      ]
+    ],
+    [
+      [
+        9504,
+        9220
+      ],
+      [
+        -105,
+        -56
+      ],
+      [
+        -72,
+        13
+      ],
+      [
+        -15,
+        -31
+      ]
+    ],
+    [
+      [
+        9257,
+        9723
+      ],
+      [
+        31,
+        46
+      ],
+      [
+        32,
+        -14
+      ],
+      [
+        76,
+        41
+      ],
+      [
+        46,
+        -23
+      ],
+      [
+        -11,
+        -42
+      ],
+      [
+        165,
+        41
+      ]
+    ]
+  ]
+}

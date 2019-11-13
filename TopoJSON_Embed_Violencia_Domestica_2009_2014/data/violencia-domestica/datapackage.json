@@ -1,0 +1,44 @@
+{
+  "title": "Violência doméstica",
+  "name": "violencia_domestica",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "sources": [
+    {
+      "name": "DGAI Direção Geral de Administração Interna",
+      "web": "http://www.dgai.mai.gov.pt/"
+    }
+  ],
+  "resources": [
+    {
+      "name": "dgai_violencia_domestica_2008_2014.csv",
+      "title": "Ocorrências de Violência Doméstica (2008-2014)",
+      "path": "data/dgai_violencia_domestica_2008_2014.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "schema": {
+        "fields": [
+          {
+            "name": "Ano",
+            "type": "integer"
+          },
+          {
+            "name": "Distrito",
+            "type": "string"
+          },
+          {
+            "name": "Entidade",
+            "type": "string"
+          },
+          {
+            "name": "Valor",
+            "type": "integer"
+          }
+        ]
+      }
+    }
+  ],
+  "description": "Número de ocorrências de violência doméstica entre 2008 e 2014",
+  "repository": "https://github.com/transparenciahackday/violencia-domestica"
+}
